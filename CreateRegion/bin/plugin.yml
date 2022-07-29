@@ -1,0 +1,9 @@
+main: me.hybridplague.createregion.CreateRegion
+name: CreateRegion
+author: HybridPlague
+version: 1.0
+depend: [WorldEdit, WorldGuard]
+
+commands:
+  CreateRegion:
+    aliases: [cr]
